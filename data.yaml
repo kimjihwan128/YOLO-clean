@@ -1,0 +1,5 @@
+train: C:/Users/user/OneDrive/Desktop/머신러닝하는조/filtered_dataset/images/train
+val: C:/Users/user/OneDrive/Desktop/머신러닝하는조/filtered_dataset/images/val
+
+nc: 1  # 클래스 개수
+names: ['traffic_light']  # 클래스 이름
